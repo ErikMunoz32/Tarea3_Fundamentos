@@ -10,5 +10,5 @@ se está desarrollando para gestionar perros comunitarios, El sistema usa los si
 y realiza validaciones en caso de que el perro no exista o si los parámetros de búsqueda
 no son válidos.
 
-El trabajo que tenia que hacer era es implementar las pruebas unitarias que se indican en la clase: PerroComunitarioServiceTest
+El trabajo que tenia que hacer era  implementar las pruebas unitarias que se indican en la clase: PerroComunitarioServiceTest
 
